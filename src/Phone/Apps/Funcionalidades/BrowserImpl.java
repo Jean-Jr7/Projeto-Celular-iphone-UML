@@ -2,7 +2,7 @@ package Phone.Apps.Funcionalidades;
 
 import Phone.Apps.Browser;
 
-public class BrowserImpl implements Browser {
+public  class BrowserImpl implements Browser {
 
     @Override
     public void exibirPagina() {
